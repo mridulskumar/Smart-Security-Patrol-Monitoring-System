@@ -1,5 +1,4 @@
-# 🛡️ SENTINEL
-## Smart Security Patrol Monitoring System
+# Smart Security Patrol Monitoring System
 
 <p align="center">
   <strong>An IoT-Based Bluetooth Security Patrol Monitoring and Emergency Alert System</strong>
